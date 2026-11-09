@@ -1,0 +1,92 @@
+# Punith V T
+
+> AI Product Developer. I build AI-powered products, intelligent systems and experiences that connect technology with real-world problems.
+
+Punith V T. builds AI-powered products end to end: LLM applications, RAG pipelines, AI agents and multi-agent systems, conversational voice AI, backend APIs and cloud infrastructure. About one year of professional AI product development. Education: Bachelor of Engineering — Computer Science and Engineering (Data Science).
+
+## Links
+
+- [Interactive 3D portfolio](https://punithvt.github.io/): drive through "Mind City"; each district is a brain region holding one section
+- [Classic portfolio (plain HTML)](https://punithvt.github.io/classic/): every section on one accessible page
+
+## Skills
+
+- **AI & Generative AI:** Python, LLMs, RAG, AI Agents, Prompt Engineering, MCP, Fine-Tuning, STT, TTS, LangChain, LangGraph, Scikit-learn, Hugging Face
+- **Backend:** FastAPI, Django, REST APIs, SQL, PostgreSQL
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Cloud & Infrastructure:** AWS, S3, Lambda, Amazon Bedrock, Docker, CI/CD
+- **Voice AI:** LiveKit, ElevenLabs, Voice Agents, Speech Processing
+- **Data:** Pandas, Matplotlib, Tableau
+- **Design & Creative:** Blender, Figma, Canva, 3D Modelling, Animation
+
+## Projects
+
+### Autonomous Learning — AI LMS
+
+An AI-powered learning environment combining personalised education, autonomous learning workflows and voice-based assistance.
+
+- Capabilities: AI-powered learning modules; Knowledge retrieval; Personalised content generation; Multi-agent orchestration; Learner progress tracking; Assessment and verification agents; Interactive workspace; Voice-based learning assistance
+- Technology: LangGraph, LangChain, Python, FastAPI, AWS, Amazon Bedrock, PostgreSQL, S3, LiveKit, LLMs
+- Context: Built within an organisation as part of a product team.
+
+### HireAI
+
+An AI-powered recruitment and hiring platform where candidates move through an intelligent, automated hiring pipeline.
+
+- Capabilities: AI-based candidate evaluation; Candidate and recruiter workflows; AI Fit Score; Recruitment automation; Assessment workflows; GitHub and technical profile integrations; Interview-related automation
+- Context: Built within an organisation as part of a product team.
+
+### Policyora — Knowledge Networks
+
+An intelligent knowledge and policy research platform that turns large document collections into answerable, connected knowledge.
+
+- Capabilities: Document intelligence; Knowledge retrieval; RAG architecture; AI-powered question answering; Knowledge processing; Enterprise information discovery
+- Technology: RAG, LLMs
+- Context: Built within an organisation as part of a product team.
+
+### Voice AI — Orion Educational Society
+
+An educational voice AI solution providing conversational, real-time, voice-based guidance and assistance.
+
+- Capabilities: Conversational voice interaction; Speech-to-text; Text-to-speech; Voice-based guidance; Real-time communication; AI-powered assistance
+- Technology: STT, TTS, LLMs
+- Context: Delivered for an educational institution as part of a team.
+
+### CRM Voice Agents
+
+An AI voice automation solution connecting inbound and outbound voice agents, telephony infrastructure and CRM systems.
+
+- Capabilities: Inbound and outbound voice agents; Lead qualification; Conversational automation; SIP telephony integrations; Speech processing; CRM integration; Call workflows
+- Technology: LiveKit, ElevenLabs, SIP, STT, TTS, LLMs
+- Context: Built within an organisation as part of a product team.
+
+### InterviewTrap.ai
+
+A technical education content brand and an end-to-end pipeline that turns a topic like “RAG vs Fine-Tuning” into a finished, animated vertical reel explaining AI, GenAI, cloud, cybersecurity and system design concepts.
+
+- Capabilities: Topic research and script / scene planning with an LLM; Validation and fact-check stages; AI voiceover with word-synced subtitles; Deterministic HTML/JS animation rendered frame-by-frame; FFmpeg video encoding, QA report and cover generation; Resumable, fingerprinted pipeline stages; Human-approved publishing only
+- Technology: Python, Claude, ElevenLabs, HTML/CSS/JS, Playwright, FFmpeg
+- Context: Personal project.
+
+## Experience
+
+- **AI Product Developer**, Rooman Technologies: About one year building AI-powered products — from architecture to deployment.
+  - AI product development
+  - Designing and integrating AI-powered workflows
+  - RAG and knowledge systems
+  - AI agent architecture
+  - Voice AI development
+  - Backend API development
+  - AWS integration
+  - Enterprise product development
+  - Product testing and deployment workflows
+
+## About
+
+I am an AI Product Developer passionate about transforming complex technologies into practical, intelligent products.
+
+My work sits at the intersection of artificial intelligence, backend engineering, cloud infrastructure and product development.
+
+From building AI agents and RAG pipelines to developing conversational voice systems and intelligent applications, I enjoy engineering solutions that solve real-world problems.
+
+Interested in: Agentic AI, Voice AI, AI product architecture, Distributed systems, Cloud engineering, Intelligent automation, Creative technology, Interactive 3D experiences.

@@ -1,0 +1,54 @@
+# Punith V T
+
+> AI Product Developer. I build AI-powered products, intelligent systems and experiences that connect technology with real-world problems.
+
+Punith V T. builds AI-powered products end to end: LLM applications, RAG pipelines, AI agents and multi-agent systems, conversational voice AI, backend APIs and cloud infrastructure. About one year of professional AI product development. Education: Bachelor of Engineering — Computer Science and Engineering (Data Science).
+
+## Links
+
+- [Interactive 3D portfolio](https://punithvt.github.io/): drive through "Mind City"; each district is a brain region holding one section
+- [Classic portfolio (plain HTML)](https://punithvt.github.io/classic/): every section on one accessible page
+
+## Skills
+
+- **AI & Generative AI:** Python, LLMs, RAG, AI Agents, Prompt Engineering, MCP, Fine-Tuning, STT, TTS, LangChain, LangGraph, Scikit-learn, Hugging Face
+- **Backend:** FastAPI, Django, REST APIs, SQL, PostgreSQL
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Cloud & Infrastructure:** AWS, S3, Lambda, Amazon Bedrock, Docker, CI/CD
+- **Voice AI:** LiveKit, ElevenLabs, Voice Agents, Speech Processing
+- **Data:** Pandas, Matplotlib, Tableau
+- **Design & Creative:** Blender, Figma, Canva, 3D Modelling, Animation
+
+## Projects
+
+### Autonomous Learning — AI LMS
+
+An AI-powered learning environment combining personalised education, autonomous learning workflows and voice-based assistance.
+
+### HireAI
+
+An AI-powered recruitment and hiring platform where candidates move through an intelligent, automated hiring pipeline.
+
+### Policyora — Knowledge Networks
+
+An intelligent knowledge and policy research platform that turns large document collections into answerable, connected knowledge.
+
+### Voice AI — Orion Educational Society
+
+An educational voice AI solution providing conversational, real-time, voice-based guidance and assistance.
+
+### CRM Voice Agents
+
+An AI voice automation solution connecting inbound and outbound voice agents, telephony infrastructure and CRM systems.
+
+### InterviewTrap.ai
+
+A technical education content brand and an end-to-end pipeline that turns a topic like “RAG vs Fine-Tuning” into a finished, animated vertical reel explaining AI, GenAI, cloud, cybersecurity and system design concepts.
+
+## Experience
+
+- **AI Product Developer**, Rooman Technologies: About one year building AI-powered products — from architecture to deployment.
+
+## Optional
+
+- [Full profile for AI assistants](https://punithvt.github.io/llms-full.txt)
