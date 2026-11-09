@@ -2,12 +2,16 @@
 
 > AI Product Developer. I build AI-powered products, intelligent systems and experiences that connect technology with real-world problems.
 
-Punith V T. builds AI-powered products end to end: LLM applications, RAG pipelines, AI agents and multi-agent systems, conversational voice AI, backend APIs and cloud infrastructure. About one year of professional AI product development. Education: Bachelor of Engineering — Computer Science and Engineering (Data Science).
+Punith V T. builds AI-powered products end to end: LLM applications, RAG pipelines, AI agents and multi-agent systems, conversational voice AI, backend APIs and cloud infrastructure. About one year of professional AI product development. Education: Bachelor of Engineering — Computer Science and Engineering (Data Science), MVJ College of Engineering. Based in Bengaluru, Karnataka, India. Currently AI Product Developer at Rooman Technologies Pvt Ltd.
 
 ## Links
 
 - [Interactive 3D portfolio](https://punithvt.github.io/): drive through "Mind City"; each district is a brain region holding one section
 - [Classic portfolio (plain HTML)](https://punithvt.github.io/classic/): every section on one accessible page
+- [LinkedIn](https://www.linkedin.com/in/punithvt)
+- [GitHub](https://github.com/PunithVT)
+- [Kaggle](https://www.kaggle.com/punithvt)
+- Email: punithvt@gmail.com
 
 ## Skills
 
@@ -47,7 +51,7 @@ A technical education content brand and an end-to-end pipeline that turns a topi
 
 ## Experience
 
-- **AI Product Developer**, Rooman Technologies: About one year building AI-powered products — from architecture to deployment.
+- **AI Product Developer**, Rooman Technologies Pvt Ltd: About one year building AI-powered products — from architecture to deployment.
 
 ## Optional
 
