@@ -64,14 +64,6 @@ An AI voice automation solution connecting inbound and outbound voice agents, te
 - Technology: LiveKit, ElevenLabs, SIP, STT, TTS, LLMs
 - Context: Built within an organisation as part of a product team.
 
-### InterviewTrap.ai
-
-A technical education content brand and an end-to-end pipeline that turns a topic like “RAG vs Fine-Tuning” into a finished, animated vertical reel explaining AI, GenAI, cloud, cybersecurity and system design concepts.
-
-- Capabilities: Topic research and script / scene planning with an LLM; Validation and fact-check stages; AI voiceover with word-synced subtitles; Deterministic HTML/JS animation rendered frame-by-frame; FFmpeg video encoding, QA report and cover generation; Resumable, fingerprinted pipeline stages; Human-approved publishing only
-- Technology: Python, Claude, ElevenLabs, HTML/CSS/JS, Playwright, FFmpeg
-- Context: Personal project.
-
 ## Experience
 
 - **AI Product Developer**, Rooman Technologies Pvt Ltd: About one year building AI-powered products — from architecture to deployment.
